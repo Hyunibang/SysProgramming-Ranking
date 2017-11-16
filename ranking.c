@@ -50,7 +50,7 @@ x++;
 while(1)
 {
 printf("====================\n");
-printf("2013154021 LeeYoungHyun\n");
+printf("LeeYoungHyun\n");
 printf("1. Adder Name, Score\n");
 printf("2. Ranking Print\n");
 printf("3. Stored Ranking\n");
