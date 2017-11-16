@@ -2,7 +2,7 @@
 File I/O Ranking System
 FILE	ranking.c
 DATE	2017-10-30
-AUTHOR	ÀÌ¿µÇö(Lee Young Hyun)
+AUTHOR Lee Young Hyun
 */
 #include <stdio.h>
 #include <string.h>
