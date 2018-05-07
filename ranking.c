@@ -2,7 +2,7 @@
 File I/O Ranking System
 FILE	ranking.c
 DATE	2017-10-30
-AUTHOR	ÀÌ¿µÇö(Lee Young Hyun)
+AUTHOR Lee Young Hyun
 */
 #include <stdio.h>
 #include <string.h>
@@ -50,7 +50,7 @@ x++;
 while(1)
 {
 printf("====================\n");
-printf("2013154021 LeeYoungHyun\n");
+printf("LeeYoungHyun\n");
 printf("1. Adder Name, Score\n");
 printf("2. Ranking Print\n");
 printf("3. Stored Ranking\n");
